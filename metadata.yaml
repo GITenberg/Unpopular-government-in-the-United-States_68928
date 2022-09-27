@@ -1,11 +1,16 @@
 _repo: Unpopular-government-in-the-United-States_68928
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68928-h/images/cover.jpg
 creator:
   author:
     agent_name: Kales, Albert M.
     gutenberg_agent_id: '55016'
     url: http://www.gutenberg.org/2009/agents/55016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68928#Unpopular-government-in-the-United-States
 gutenberg_issued: '2022-09-06'
 identifiers:
   gutenberg: '68928'
